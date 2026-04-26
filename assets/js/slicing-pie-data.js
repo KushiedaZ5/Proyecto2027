@@ -1,6 +1,6 @@
 // ============================================================
 // SLICING PIE DATA — hentaila.pro
-// Generado: 26/4/2026, 4:45:45 p. m.
+// Generado: 26/4/2026, 5:27:27 p. m.
 // ============================================================
 
 var TEAM = [
@@ -56,9 +56,9 @@ var MISSIONS = [
     { cat: "MARKETING", task: "Contactar 1 streamer/youtuber", slices: 150, status: "", contributors: [], date: "" },
     { cat: "MARKETING", task: "Contactar con una pagina de facebook y coordinar la promocion", slices: 150, status: "", contributors: [], date: "" },
     { cat: "DEPLOY", task: "Comprar dominio hentaila.pro", slices: 100, status: "", contributors: [{"name":"Maximo","pct":100}], date: "" },
-    { cat: "DEPLOY", task: "Conectar GitHub repo a Vercel", slices: 100, status: "HECHO", contributors: [{"name":"Maximo","pct":100}], date: "" },
+    { cat: "DEPLOY", task: "Conectar GitHub repo a Vercel", slices: 100, status: "HECHO", contributors: [{"name":"Maximo","pct":100}], date: "24/04/2026" },
     { cat: "DEPLOY", task: "Configurar SSL + DNS", slices: 100, status: "", contributors: [{"name":"Maximo","pct":100}], date: "" },
-    { cat: "DEPLOY", task: "Deploy exitoso en producción", slices: 200, status: "HECHO", contributors: [{"name":"Maximo","pct":100}], date: "" },
+    { cat: "DEPLOY", task: "Deploy exitoso en producción", slices: 200, status: "HECHO", contributors: [{"name":"Maximo","pct":100}], date: "24/04/2026" },
     { cat: "DATABASE", task: "Ajustar el servidor de DB para permitir acceso a hentaila.pro", slices: 100, status: "HECHO", contributors: [{"name":"Maximo","pct":100}], date: "24/04/2026" },
     { cat: "DATABASE", task: "Alojar la base de datos en un servidor( Dinero?)", slices: 100, status: "HECHO", contributors: [{"name":"Maximo","pct":100}], date: "24/04/2026" },
     { cat: "DATABASE", task: "Conectar API a Supabase", slices: 200, status: "HECHO", contributors: [{"name":"Maximo","pct":100}], date: "24/04/2026" },
@@ -126,7 +126,7 @@ var MISSIONS = [
     { cat: "AKINATOR", task: "Conectar con database", slices: 200, status: "", contributors: [], date: "" },
     { cat: "VIDEOS", task: "Crear Marca de Agua", slices: 100, status: "HECHO", contributors: [{"name":"Maximo","pct":100}], date: "24/03/2026" },
     { cat: "VIDEOS", task: "Crear un servicio optimizado de videos (Pasar de 600mb a 200mb)", slices: 30, status: "", contributors: [{"name":"Maximo","pct":100}], date: "" },
-    { cat: "CATÁLOGO", task: "Subir 10 sinopsis a 10 generos", slices: 50, status: "", contributors: [{"name":"Hideki","pct":100}], date: "26/04/2026" }
+    { cat: "CATÁLOGO", task: "Subir 10 sinopsis a 10 generos", slices: 50, status: "HECHO", contributors: [{"name":"Hideki","pct":80},{"name":"Maximo","pct":20}], date: "26/04/2026" }
 ];
 
 var INVESTMENTS = [
